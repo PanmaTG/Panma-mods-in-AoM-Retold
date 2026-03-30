@@ -1,0 +1,166 @@
+<!-- 
+GAME VERSION: v.100.19.5934.0,
+GAME BUILD: 22410022,
+GAME UPDATE RELEASE DATE: 24 March 2026 
+-->
+
+<protomods>
+
+<!-- I. GREEK HEROES -->
+	<!-- HERO: ARKANTOS -->
+	<unit name="Arkantos">
+		<initialhitpoints mergeMode="modify">3000.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3000.0000</maxhitpoints>
+	</unit>
+	<unit name="ArkantosUber">
+		<initialhitpoints mergeMode="modify">4500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">4500.0000</maxhitpoints>
+	</unit>
+	<unit name="ArkantosGod">
+		<initialhitpoints mergeMode="modify">4500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">4500.0000</maxhitpoints>
+	</unit>
+	<unit name="ArkantosBoar">
+		<initialhitpoints mergeMode="modify">2000.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">2000.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: ATHENA -->
+	<unit name="Athena">
+		<initialhitpoints mergeMode="modify">9999.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">9999.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: AJAX -->
+	<unit name="Ajax">
+		<initialhitpoints mergeMode="modify">1900.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">1900.0000</maxhitpoints>
+	</unit>
+	<unit name="AjaxSPC">
+		<initialhitpoints mergeMode="modify">3500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3500.0000</maxhitpoints>
+	</unit>
+	<unit name="AjaxOlder">
+		<initialhitpoints mergeMode="modify">3500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3500.0000</maxhitpoints>
+	</unit>
+	<unit name="AjaxBoar">
+		<initialhitpoints mergeMode="modify">2500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">2500.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: KASTOR --> 
+	<unit name="Kastor">
+		<initialhitpoints mergeMode="modify">3500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3500.0000</maxhitpoints>
+	</unit>
+	<unit name="KastorYoung">
+		<initialhitpoints mergeMode="modify">1500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">1500.0000</maxhitpoints>
+	</unit>
+	<unit name="KastorWithStaff">
+		<initialhitpoints mergeMode="modify">3500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3500.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: JASON -->
+	<unit name="Jason">
+		<initialhitpoints mergeMode="modify">2000.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">2000.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: HERACLES -->
+	<unit name="Heracles">
+		<initialhitpoints mergeMode="modify">3250.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3250.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: ODYSSEUS -->
+	<unit name="Odysseus">
+		<initialhitpoints mergeMode="modify">3500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3500.0000</maxhitpoints>
+	</unit>
+	<unit name="OdysseusSPC">
+		<initialhitpoints mergeMode="modify">2500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">2500.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: BELLEROPHON -->
+	<unit name="Bellerophon">
+		<initialhitpoints mergeMode="modify">4400.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">4400.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: THESEUS -->
+	<unit name="Theseus">
+		<initialhitpoints mergeMode="modify">1900.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">1900.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: ATALANTA -->
+	<unit name="Atalanta">
+		<initialhitpoints mergeMode="modify">2600.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">2600.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: HIPPOLYTA -->
+	<unit name="Hippolyta">
+		<initialhitpoints mergeMode="modify">3250.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3250.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: POLYPHEMUS -->
+	<unit name="Polyphemus">
+		<initialhitpoints mergeMode="modify">7000.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">7000.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: CHIRON -->
+	<unit name="Chiron">
+		<initialhitpoints mergeMode="modify">3500.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3500.0000</maxhitpoints>
+	</unit>
+	<unit name="ChironSPC">
+		<initialhitpoints mergeMode="modify">2750.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">2750.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: ACHILLES -->
+	<unit name="Achilles">
+		<initialhitpoints mergeMode="modify">3000.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3000.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: PERSEUS -->
+	<unit name="Perseus">
+		<initialhitpoints mergeMode="modify">4800.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">4800.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: ORPHEUS -->
+	<unit name="Orpheus" orderhint="3">
+		<initialhitpoints mergeMode="modify">2000.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">2000.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: IOLAUS -->
+	<unit name="Iolaus" orderhint="3">
+		<initialhitpoints mergeMode="modify">3000.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3000.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: ICARUS -->
+	<unit name="Icarus" orderhint="3">
+		<initialhitpoints mergeMode="modify">3000.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">3000.0000</maxhitpoints>
+	</unit>
+
+	<!-- HERO: KING MIDAS -->
+	<unit name="Midas" orderhint="3">
+		<initialhitpoints mergeMode="modify">6200.0000</initialhitpoints>
+		<maxhitpoints mergeMode="modify">6200.0000</maxhitpoints>
+	</unit>
+
+
+
+</protomods>
