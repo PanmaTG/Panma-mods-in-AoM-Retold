@@ -1,0 +1,44 @@
+<!-- 
+GAME VERSION: v.100.19.5934.0,
+GAME BUILD: 22410022,
+GAME VERSION RELEASE DATE: 24 March 2026 
+-->
+
+<protomods>
+<!-- GREEK UNIT -->
+	<!-- UNIT: VILLAGER GREEK -->
+	<unit name="VillagerGreek">
+		<buildlimit mergeMode="modify">500</buildlimit>
+	</unit>
+
+<!-- EGYPTIAN UNIT -->
+	<!-- UNIT: LABORER -->
+	<unit name="VillagerEgyptian">
+		<buildlimit mergeMode="modify">500</buildlimit>
+	</unit>
+
+<!-- NORSE UNIT -->
+	<!-- UNIT: GATHERER -->
+	<unit name="VillagerNorse">
+		<buildlimit mergeMode="modify">500</buildlimit>
+	</unit>
+
+<!-- ATLANTEAN UNIT -->
+	<!-- UNIT: CITIZEN -->
+	<unit name="VillagerAtlantean">
+		<buildlimit mergeMode="modify">500</buildlimit>
+	</unit>
+
+<!-- CHINESE UNIT -->
+	<!-- UNIT: PEASANT -->
+	<unit name="VillagerChinese">
+		<buildlimit mergeMode="modify">500</buildlimit>
+	</unit>
+
+<!-- JAPANESE UNIT -->
+	<!-- UNIT: PEASANT -->
+	<unit name="VillagerJapanese">
+		<buildlimit mergeMode="modify">500</buildlimit>
+	</unit>
+
+</protomods>
