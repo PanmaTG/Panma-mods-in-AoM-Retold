@@ -1,0 +1,64 @@
+<!-- 
+GAME VERSION: v.100.19.5934.0,
+GAME BUILD: 22410022,
+GAME UPDATE RELEASE DATE: 24 March 2026 
+-->
+
+<!-- 
+MORE TREE RESOURCE - x10
+-->
+
+<protomods>
+	<!-- RESOURCE: WOOD -->
+	<unit mergeMode="modify" name="TreeCypress">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeCypressSnow">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>	
+	</unit>
+	<unit mergeMode="modify" name="TreeHades">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeGaia">
+		<initialresource resourcetype="Wood">2500.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeMarsh">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeOak">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeOakAutumn">
+		<initialresource resourcetype="Wood">10200000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeOakRound">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeOlive">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreePalm">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreePine">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreePineDead">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreePineSnow">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeSavannah">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeSavannahOld">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeTundra">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+	<unit mergeMode="modify" name="TreeTundraSnow">
+		<initialresource resourcetype="Wood">2000.0100</initialresource>
+	</unit>
+</protomods>
