@@ -1,0 +1,122 @@
+<!-- 
+GAME VERSION: v.100.19.5934.0,
+GAME BUILD: 22410022,
+GAME UPDATE RELEASE DATE: 24 March 2026 
+-->
+
+<!-- 
+MORE FOOD RESOURCE - x5
+-->
+
+<protomods>
+	<!-- RESOURCES -->
+	<!-- RESOURCE: FOOD -->
+	<unit name="BerryBush" spatialmapped="true">
+		<initialresource mergeMode="modify" resourcetype="Food">7500.0000</initialresource>
+		<carrycapacity mergeMode="modify" resourcetype="Food">7500.0000</carrycapacity>
+	</unit>
+	<unit name="Chicken">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+		<carrycapacity mergeMode="modify" capacity="Food">10000.0000</carrycapacity>
+	</unit>
+	<unit name="Pig">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+		<carrycapacity mergeMode="modify" capacity="Food">10000.0000</carrycapacity>
+	</unit>
+	<unit name="Goat">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+		<carrycapacity mergeMode="modify" capacity="Food">10000.0000</carrycapacity>
+	</unit>
+	<unit name="Cow">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+		<carrycapacity mergeMode="modify" capacity="Food">10000.0000</carrycapacity>
+	</unit>
+	<unit name="Aurochs">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="AurochsOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="Baboon">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="BaboonOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="Bear">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="Boar">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="Caribou">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="CrownedCrane">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="CrownedCraneSPC">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="CrownedCraneOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="RedCrownedCrane">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="RedCrownedCraneOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="Crocodile">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="CrocodileOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="Deer">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="DeerSPC">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="DeerOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="SpottedDeer">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="SpottedDeerSPC">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="SpottedDeerOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="DeerShrineOfTheHunt">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="Elk">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="ElkOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="Gazelle">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="GazelleOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="Wolf">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="ArcticWolf">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="ArcticWolfSPC">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+	<unit name="JapaneseWolf">
+		<initialresource mergeMode="modify" resourcetype="Food">10000.0000</initialresource>
+	</unit>
+
+</protomods>
