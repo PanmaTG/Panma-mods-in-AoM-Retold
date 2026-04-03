@@ -162,6 +162,7 @@ GAME UPDATE RELEASE DATE: 24 March 2026
 	</unit>
 
 <!-- II. EGYPTIAN HEROES -->
+	<!-- HERO: AMANRA -->
 	<unit name="Amanra">
 		<initialhitpoints mergeMode="modify">2500.0000</initialhitpoints>
 		<maxhitpoints mergeMode="modify">2500.0000</maxhitpoints>
