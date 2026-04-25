@@ -1,0 +1,48 @@
+<!-- 
+GAME VERSION: v.100.19.5934.0,
+GAME BUILD: 22410022,
+GAME VERSION RELEASE DATE: 24 March 2026 
+-->
+
+<!-- 
+FAST, CHEAP, AND NO POPULATION COUNT VILLAGERS
+-->
+
+<protomods>
+<!-- GREEK UNIT -->
+	<!-- UNIT: VILLAGER GREEK -->
+	<unit name="VillagerGreek">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+	</unit>
+
+<!-- EGYPTIAN UNIT -->
+	<!-- UNIT: LABORER -->
+	<unit name="VillagerEgyptian">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+	</unit>
+
+<!-- NORSE UNIT -->
+	<!-- UNIT: GATHERER -->
+	<unit name="VillagerNorse">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+	</unit>
+
+<!-- ATLANTEAN UNIT -->
+	<!-- UNIT: CITIZEN -->
+	<unit name="VillagerAtlantean">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+	</unit>
+
+<!-- CHINESE UNIT -->
+	<!-- UNIT: PEASANT -->
+	<unit name="VillagerChinese">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+	</unit>
+
+<!-- JAPANESE UNIT -->
+	<!-- UNIT: PEASANT -->
+	<unit name="VillagerJapanese">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+	</unit>
+
+</protomods>
