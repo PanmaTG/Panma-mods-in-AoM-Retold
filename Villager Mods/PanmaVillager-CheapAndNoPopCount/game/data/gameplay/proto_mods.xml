@@ -32,12 +32,13 @@ CHEAP AND NO POPULATION COUNT VILLAGERS
 	<!-- UNIT: DWARF MINER -->
 	<unit name="VillagerDwarf">
 		<populationcount mergeMode="modify">0</populationcount>
-		<cost mergeMode="modify" resourcetype="Food">1</cost>
+		<cost mergeMode="modify" resourcetype="Gold">1</cost>
 	</unit>
 	<!-- UNIT: BUILDER -->
 	<unit name="Berserk">
 		<populationcount mergeMode="modify">0</populationcount>
 		<cost mergeMode="modify" resourcetype="Food">1</cost>
+		<cost mergeMode="modify" resourcetype="Gold">1</cost>
 	</unit>
 
 <!-- ATLANTEAN UNIT -->

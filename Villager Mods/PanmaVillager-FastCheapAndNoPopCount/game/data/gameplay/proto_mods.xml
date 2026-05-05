@@ -36,13 +36,14 @@ FAST, CHEAP, AND NO POPULATION COUNT VILLAGERS
 	<unit name="VillagerDwarf">
 		<trainpoints mergeMode="modify">1.0000</trainpoints>
 		<populationcount mergeMode="modify">0</populationcount>
-		<cost mergeMode="modify" resourcetype="Food">1</cost>
+		<cost mergeMode="modify" resourcetype="Gold">1</cost>
 	</unit>
 	<!-- UNIT: BUILDER -->
 	<unit name="Berserk">
 		<trainpoints mergeMode="modify">1.0000</trainpoints>
 		<populationcount mergeMode="modify">0</populationcount>
 		<cost mergeMode="modify" resourcetype="Food">1</cost>
+		<cost mergeMode="modify" resourcetype="Gold">1</cost>
 	</unit>
 
 <!-- ATLANTEAN UNIT -->

@@ -28,11 +28,12 @@ CHEAP VILLAGERS
 	</unit>
 	<!-- UNIT: DWARF MINER -->
 	<unit name="VillagerDwarf">
-		<cost mergeMode="modify" resourcetype="Food">1</cost>
+		<cost mergeMode="modify" resourcetype="Gold">1</cost>
 	</unit>
 	<!-- UNIT: BUILDER -->
 	<unit name="Berserk">
 		<cost mergeMode="modify" resourcetype="Food">1</cost>
+		<cost mergeMode="modify" resourcetype="Gold">1</cost>
 	</unit>
 
 <!-- ATLANTEAN UNIT -->
