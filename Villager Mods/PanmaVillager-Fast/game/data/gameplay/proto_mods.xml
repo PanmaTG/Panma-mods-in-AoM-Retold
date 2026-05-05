@@ -21,9 +21,17 @@ FAST, CHEAP, AND NO POPULATION COUNT VILLAGERS
 		<trainpoints mergeMode="modify">1.0000</trainpoints>
 	</unit>
 
-<!-- NORSE UNIT -->
+<!-- NORSE UNITS -->
 	<!-- UNIT: GATHERER -->
 	<unit name="VillagerNorse">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+	</unit>
+	<!-- UNIT: DWARF MINER -->
+	<unit name="VillagerDwarf">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+	</unit>
+	<!-- UNIT: BUILDER -->
+	<unit name="Berserk">
 		<trainpoints mergeMode="modify">1.0000</trainpoints>
 	</unit>
 

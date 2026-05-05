@@ -25,9 +25,21 @@ FAST, CHEAP, AND NO POPULATION COUNT VILLAGERS
 		<cost mergeMode="modify" resourcetype="Food">1</cost>
 	</unit>
 
-<!-- NORSE UNIT -->
+<!-- NORSE UNITS -->
 	<!-- UNIT: GATHERER -->
 	<unit name="VillagerNorse">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+		<populationcount mergeMode="modify">0</populationcount>
+		<cost mergeMode="modify" resourcetype="Food">1</cost>
+	</unit>
+	<!-- UNIT: DWARF MINER -->
+	<unit name="VillagerDwarf">
+		<trainpoints mergeMode="modify">1.0000</trainpoints>
+		<populationcount mergeMode="modify">0</populationcount>
+		<cost mergeMode="modify" resourcetype="Food">1</cost>
+	</unit>
+	<!-- UNIT: BUILDER -->
+	<unit name="Berserk">
 		<trainpoints mergeMode="modify">1.0000</trainpoints>
 		<populationcount mergeMode="modify">0</populationcount>
 		<cost mergeMode="modify" resourcetype="Food">1</cost>

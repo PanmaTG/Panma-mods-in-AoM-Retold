@@ -21,9 +21,17 @@ SET VILLAGER BUILD LIMIT TO 500
 		<buildlimit mergeMode="modify">500</buildlimit>
 	</unit>
 
-<!-- NORSE UNIT -->
+<!-- NORSE UNITS -->
 	<!-- UNIT: GATHERER -->
 	<unit name="VillagerNorse">
+		<buildlimit mergeMode="modify">500</buildlimit>
+	</unit>
+	<!-- UNIT: DWARF MINER -->
+	<unit name="VillagerDwarf">
+		<buildlimit mergeMode="modify">500</buildlimit>
+	</unit>
+	<!-- UNIT: BUILDER -->
+	<unit name="Berserk">
 		<buildlimit mergeMode="modify">500</buildlimit>
 	</unit>
 

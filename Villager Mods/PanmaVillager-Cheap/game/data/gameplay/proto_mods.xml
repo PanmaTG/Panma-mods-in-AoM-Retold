@@ -21,9 +21,17 @@ CHEAP VILLAGERS
 		<cost mergeMode="modify" resourcetype="Food">1</cost>
 	</unit>
 
-<!-- NORSE UNIT -->
+<!-- NORSE UNITS -->
 	<!-- UNIT: GATHERER -->
 	<unit name="VillagerNorse">
+		<cost mergeMode="modify" resourcetype="Food">1</cost>
+	</unit>
+	<!-- UNIT: DWARF MINER -->
+	<unit name="VillagerDwarf">
+		<cost mergeMode="modify" resourcetype="Food">1</cost>
+	</unit>
+	<!-- UNIT: BUILDER -->
+	<unit name="Berserk">
 		<cost mergeMode="modify" resourcetype="Food">1</cost>
 	</unit>
 
