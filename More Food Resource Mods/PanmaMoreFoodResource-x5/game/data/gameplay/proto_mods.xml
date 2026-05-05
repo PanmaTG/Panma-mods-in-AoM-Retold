@@ -121,5 +121,12 @@ MORE FOOD RESOURCE - x5
 	<unit name="JapaneseWolfOfSet">
 		<initialresource mergeMode="modify" resourcetype="Food">562.5.0000</initialresource>
 	</unit>
+	<unit name="Elephant">
+		<initialresource mergeMode="modify" resourcetype="Food">4500.0000</initialresource>
+	</unit>
+	<unit name="ElephantOfSet">
+		<initialresource mergeMode="modify" resourcetype="Food">3375.0000</initialresource>
+	</unit>
+
 
 </protomods>
