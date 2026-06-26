@@ -1,0 +1,13 @@
+<!-- 
+GAME VERSION: v.100.19.5934.0,
+GAME BUILD: 22410022,
+GAME UPDATE RELEASE DATE: 24 March 2026 
+-->
+
+<protomods>
+	<!-- BUILDINGS -->
+	<!-- BUILDING: SENTRY TOWER -->
+	<unit name="SentryTower">
+		<buildlimit mergeMode="modify">150</buildlimit>
+	</unit>
+</protomods>
